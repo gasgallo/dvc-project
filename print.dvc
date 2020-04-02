@@ -1,0 +1,5 @@
+md5: 81d93c27230f6735821328275cb5173b
+cmd: ./print.sh
+deps:
+- md5: c6b137f3d52d7265688351354c1405b2
+  path: output/test_mod.bin

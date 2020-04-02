@@ -1,2 +1,5 @@
 [core]
     analytics = false
+    remote = gs
+['remote "gs"']
+    url = gs://sertis-dvc

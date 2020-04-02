@@ -1,0 +1,13 @@
+md5: 33a868e8030c5ab352139a5d61337666
+cmd: ./copy.sh
+deps:
+- md5: 4979945c59ca9d831a5dbc0e15bb6ea6
+  path: dvc-model/test.bin
+- md5: d11ca3828b70641b4b0603a134a39f23
+  path: copy.sh
+outs:
+- md5: 4979945c59ca9d831a5dbc0e15bb6ea6
+  path: output/test.bin
+  cache: true
+  metric: false
+  persist: false
