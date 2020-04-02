@@ -1,12 +1,12 @@
-md5: efebc7fdb53170d18259875351f1f22e
+md5: 0b924c765114dc0afb025dd4b9b6248a
 cmd: ./edit.sh
 deps:
-- md5: 4979945c59ca9d831a5dbc0e15bb6ea6
+- md5: e51189e9b16f97df052e6113179bb1c5
   path: output/test.bin
 - md5: dfdd508161292049eb8b45fb7e3ef056
   path: edit.sh
 outs:
-- md5: c6b137f3d52d7265688351354c1405b2
+- md5: 1708fd881f05895875b9b2701be0ce9b
   path: output/test_mod.bin
   cache: true
   metric: false
