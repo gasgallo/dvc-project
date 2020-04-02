@@ -1,0 +1,3 @@
+[submodule "dvc-model"]
+	path = dvc-model
+	url = git@github.com:gasgallo/dvc-model.git
