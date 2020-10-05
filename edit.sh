@@ -1,1 +1,1 @@
-sed "s/1/9/g" output/test.bin > output/test_mod.bin
+sed "s/2/9/g" output/test.bin > output/test_mod.bin
